@@ -1,0 +1,22 @@
+.row {
+    display: flex;
+    justify-content: space-around;
+    border:2px dotted gold;
+    padding-right:20px ;
+}
+.score{
+font-size:60px;  
+}
+
+
+
+
+
+
+
+body {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+    background: black;
+    color: white;
+}
